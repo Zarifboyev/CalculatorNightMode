@@ -1,11 +1,9 @@
 <resources>
     <string name="app_name">Kalkulyator</string>ng>
-    <string name="c">C</string>
-    <string name="qavslar">()</string>
     <string name="foiz">%</string>
     <string name="boluv">÷</string>
     <string name="_7">7</string>
-    <string name="_8">8</string>
+    <string name="_8">8</string>/
     <string name="_9">9</string>
     <string name="kopaytiruv">×</string>
     <string name="_4">4</string>
@@ -19,4 +17,8 @@
     <string name="_0">0</string>
     <string name="nuqta">.</string>
     <string name="teng">=</string>
+    <string name="qavs1">(</string>
+    <string name="qavs2">)</string>
+    <string name="backSpace">⌫</string>
+    <string name="todo">TODO</string>
 </resources>
