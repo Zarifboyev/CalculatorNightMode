@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="style">
+        <attr name="black" format="color"/>
+        <attr name="white" format="color"/>
+        <attr name="orange" format="color"/>
+        <attr name="red" format="color"/>
+        <attr name="tengOrange" format="color"/>
+        <attr name="maxsusTugmalar" format="color"/>
+    </declare-styleable>
+</resources>
