@@ -1,7 +1,4 @@
 # CalculatorNightMode
-Ilova tungi va kunduzgi rejimlarda ishlay oladi. 
-Agar qurilma tungi rejimda bo'lsa avtomatik tungi rejimga o'tadi. 
-Tungi rejimda ilovaga kirgandan so'ng barcha raqamlar, arifmetik amallar ham ishlaydi. Natija ham chiqaradi
-Lekin Night Mode da Delete tugmasi bir marta bosilganidan so'ng barcha yozilgan sonlar, natija ham o'chib ketadi va barcha tugmalar ishlamay qoladi.
-Aslida Delete tugmasi bir marta bosilsa Delete funksiyasini bajarishi kerak, bosib turilsa Clear funksiyasini bajarishi kerak edi.
-Muammoni hal qilish kerak
+Kalkulyator ilovasini kodlari.
+Ilovada tungi va kunduzgi rejimlar bor. Agar qurilma tungi rejimda bo'lsa ilova tungi rejimga o'tadi.
+Kalkulyator hali to'liq tayyor emas. Kalkulyator tayyor bo'lgach Githubga joylayman. Lekin ilova kodlaridan kalkulyator yaratishda foydalanishingiz mumkin.
